@@ -1,0 +1,3 @@
+# Degree of freedom
+---
+## Introduction
