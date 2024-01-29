@@ -1,4 +1,4 @@
 # Confusion Matrix
-How unintuitiveness can unnecessarily complicate and very basic and simple topic
+How unintuitiveness can unnecessarily complicate an otherwise very basic and simple topic
 
 ## Introduction
